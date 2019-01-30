@@ -1,0 +1,18 @@
+Package: datadevtools
+Title: Simplifies Creating and Sharing Data
+Version: 0.0.0.9000
+Authors@R: c(
+    person("Nicholas", 
+           "Tierney", 
+           email = "nicholas.tierney@gmail.com", 
+           role = c("aut", "cre")),
+    person("Karthik", 
+           "Ram", 
+           role = c("aut"))
+           )
+Description: A set of tools to make it easier to add metadata to your data, and 
+    enable the sharing of data.
+Depends: R (>= 3.5.2)
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
