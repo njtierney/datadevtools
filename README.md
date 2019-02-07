@@ -27,4 +27,5 @@ do things like:
   - Add data appropriate licenses
   - Share on a cloud service
   - Perform general data formatting checks
-  - Run checks on the data source
+  - Run checks on the data source (like in
+    [checkers](https://github.com/ropenscilabs/checkers))
